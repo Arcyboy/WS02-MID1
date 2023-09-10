@@ -13,9 +13,9 @@ font-size: auto;
 color: #F20519;
 }
 header img{
-border-radius: 25px;
-width: auto;
-height:auto;
+	max-width: 100%;
+border-radius: 10%;
+
 
 
 }

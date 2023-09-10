@@ -9,13 +9,13 @@ header{
 text-align: center;
 }
 h1{
-font-size: 500%;
+font-size: auto;
 color: #F20519;
 }
 header img{
 border-radius: 25px;
-width: 65%;
-height:50%;
+width: auto;
+height:auto;
 
 
 }
